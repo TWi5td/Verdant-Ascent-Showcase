@@ -72,4 +72,5 @@ To protect the full project and its creative content, the following are **intent
 
 ---
 
-## 📬 Contact
+## Contact
+Thomas Schmidt | (208) 600 - 0234 | twschmidt2001@gmail.com
