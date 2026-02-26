@@ -3,7 +3,7 @@
 
 This repository contains **curated excerpts** of gameplay systems, architecture patterns, and tools from my larger private project **Verdant Ascent** — a surreal 3D parkour exploration game about dream loops, shifting mazes, and symbolic environments.
 
-The purpose of this repo is to demonstrate my **coding style**, **gameplay programming**, **Godot workflow**, and **architecture decisions** without exposing the full project or narrative content.
+The purpose of this repo is to demonstrate **coding style**, **gameplay programming**, **Godot workflow**, and **architecture decisions** without exposing the full project or narrative content.
 
 ---
 
